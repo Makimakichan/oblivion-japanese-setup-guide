@@ -1,0 +1,2 @@
+# Preserve the original upload bytes, including line endings and UTF-8 BOMs.
+* -text

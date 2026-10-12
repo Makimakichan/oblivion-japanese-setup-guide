@@ -1,0 +1,17 @@
+﻿Oblivion 日本語化チェック＆英語に戻すガイド
+Copyright (c) 2026 Makimakichan999. All rights reserved.
+
+本アプリは個人で無償利用できます。
+付属ソースは内容の確認、および個人利用のためのビルド・変更に利用できます。
+再配布、変更版の公開、他作品へのコードの組み込み・公開には、作者の許可が必要です。
+本表示を削除しないでください。
+
+Personal use is permitted without charge. Included source may be inspected,
+built, and modified for personal use. Redistribution, publication of modified
+versions, or publication of code incorporated into other works requires the
+author's permission. Keep this notice intact.
+
+The included application and source were authored for this project.
+Legacy filenames and SHA-256 metadata identify files; no third-party game,
+legacy engine binary, legacy patch implementation, or third-party source
+is included. Product names belong to their respective owners.
